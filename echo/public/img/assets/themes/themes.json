@@ -6,8 +6,8 @@
       "category": "cities",
       "updated": "19-Jul-2018",
       "currentVersion": 1,
-      "type": "mkey", // this is the type of theme - user-generated or created by us @mkey (= mkey OR user)
-      "author": "$marvesky", // mkey username (of the end-user, staffer who created the theme or mkey team handle)
+      "type": "mkey",
+      "author": "$marvesky",
       "themeDetail": {
           "font": {
             "face": "Muli",
@@ -16,29 +16,29 @@
           },
           "qwerty": {
             "background": {
-              "style": "dark", // or light
-              "type": "image", // or color
-              "color": "", // in hex
+              "style": "dark",
+              "type": "image",
+              "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/cities/theme_image_cities_nairobae.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/cities/theme_thumbnail_cities_nairobae.png",
-              "overlayOpacity": 35 // 0 = no overlay; 100 = full black overlay
+              "overlayOpacity": 35
             },
             "keys": {
               "keyBorder": {
                 "border": false,
-                "shape": "rounded", // rounded or sharp
-                "borderColor": "#FFFFFF", // in hex
-                "opacity": 50 // between 0-100
+                "shape": "rounded",
+                "borderColor": "#FFFFFF",
+                "opacity": 50
               },
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "normal"
               }
             },
             "bottomBar": {
               "icons": {
-                "style": "light", // or dark
+                "style": "light",
                 "shift": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/shift.png",
                 "capslock": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/capslock.png",
                 "uppercase": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/uppercase.png",
@@ -54,13 +54,13 @@
               },
               "keyBorder": {
                 "border": false,
-                "shape": "rounded", // rounded or sharp
-                "borderColor": "#FFFFFF", // in hex
-                "opacity": 20 // between 0-100
+                "shape": "rounded",
+                "borderColor": "#FFFFFF",
+                "opacity": 20
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 60, // between 0-100
+              "overlayOpacity": 60,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -69,26 +69,26 @@
                 "suggestion": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/suggestion.png"
               },
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "normal"
               }
             }
           },
           "overview": {
-            "background": "inherit", // or color code
+            "background": "inherit",
             "titles": {
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "normal"
               }
             },
             "labels": {
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "normal"
               }
             }
           }
@@ -99,8 +99,8 @@
       "category": "default",
       "updated": "19-Jul-2018",
       "currentVersion": 1,
-      "type": "mkey", // this is the type of theme - user-generated or created by us @mkey (= mkey OR user)
-      "author": "#wakandaNation", // mkey username (of the end-user, staffer who created the theme or mkey team handle)
+      "type": "mkey",
+      "author": "#wakandaNation",
       "themeDetail": {
           "font": {
             "face": "Muli",
@@ -109,29 +109,29 @@
           },
           "qwerty": {
             "background": {
-              "style": "light", // or dark
-              "type": "color", // or image
-              "color": "#efefef", // in hex
+              "style": "light",
+              "type": "color",
+              "color": "#efefef",
               "imageUri": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_image_default_light.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_thumbnail_default_light.png",
-              "overlayOpacity": 0 // 0 = no overlay; 100 = full black overlay
+              "overlayOpacity": 0
             },
             "keys": {
               "keyBorder": {
                 "border": true,
-                "shape": "rounded", // rounded or sharp
-                "borderColor": "ffffff", // in hex
-                "opacity": 100 // between 0-100
+                "shape": "rounded",
+                "borderColor": "ffffff",
+                "opacity": 100
               },
               "font": {
-                "color": "#000000", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#000000",
+                "style": "normal",
+                "weight": "normal"
               }
             },
             "bottomBar": {
               "icons": {
-                "style": "light", // or dark
+                "style": "light",
                 "shift": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/shift.png",
                 "capslock": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/capslock.png",
                 "uppercase": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/uppercase.png",
@@ -147,13 +147,13 @@
                 },
               "keyBorder": {
                 "border": true,
-                "shape": "rounded", // rounded or sharp
-                "borderColor": "ffffff", // in hex
+                "shape": "rounded",
+                "borderColor": "ffffff",
                 "opacity":100
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 0, // between 0-100
+              "overlayOpacity": 0,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -162,26 +162,26 @@
                 "suggestion": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/suggestion.png"
               },
               "font": {
-                "color": "#000000", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#000000",
+                "style": "normal",
+                "weight": "normal"
               }
             }
           },
           "overview": {
-            "background": "inherit", // or 'inherit' to apply the same background as the qwerty keyboard
+            "background": "inherit",
             "titles": {
               "font": {
-                "color": "#000000", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "bold" // or bold
+                "color": "#000000",
+                "style": "normal",
+                "weight": "bold"
               }
             },
             "labels": {
               "font": {
-                "color": "#000000", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#000000",
+                "style": "normal",
+                "weight": "normal"
               }
             }
           }
@@ -192,8 +192,8 @@
       "category": "default",
       "updated": "19-Jul-2018",
       "currentVersion": 1,
-      "type": "mkey", // this is the type of theme - user-generated or created by us @mkey (= mkey OR user)
-      "author": "#wakandaNation", // mkey username (of the end-user, staffer who created the theme or mkey team handle)
+      "type": "mkey",
+      "author": "#wakandaNation",
       "themeDetail": {
           "font": {
             "face": "Muli",
@@ -202,29 +202,29 @@
           },
           "qwerty": {
             "background": {
-              "style": "dark", // or dark
-              "type": "color", // or image
-              "color": "#1e1e1e", // in hex
+              "style": "dark",
+              "type": "color",
+              "color": "#1e1e1e",
               "imageUri": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_image_default_dark.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_thumbnail_default_dark.png",
-              "overlayOpacity": 0 // 0 = no overlay; 100 = full black overlay
+              "overlayOpacity": 0
             },
             "keys": {
               "keyBorder": {
                 "border": true,
-                "shape": "rounded", // rounded or sharp
-                "borderColor": "ffffff", // in hex
-                "opacity": 20 // between 0-100
+                "shape": "rounded",
+                "borderColor": "ffffff",
+                "opacity": 20
               },
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "normal"
               }
             },
             "bottomBar": {
               "icons": {
-                "style": "light", // or dark
+                "style": "light",
                 "shift": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/shift.png",
                 "capslock": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/capslock.png",
                 "uppercase": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/uppercase.png",
@@ -240,13 +240,13 @@
                 },
               "keyBorder": {
                 "border": false,
-                "shape": "rounded", // rounded or sharp
-                "borderColor": "ffffff", // in hex
+                "shape": "rounded",
+                "borderColor": "ffffff",
                 "opacity":0
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 0, // between 0-100
+              "overlayOpacity": 0,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -255,26 +255,26 @@
                 "suggestion": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/suggestion.png"
               },
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "normal"
               }
             }
           },
           "overview": {
-            "background": "inherit", // or 'inherit' to apply the same background as the qwerty keyboard
+            "background": "inherit",
             "titles": {
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "bold" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "bold"
               }
             },
             "labels": {
               "font": {
-                "color": "#ffffff", // in hex
-                "style": "normal", // normal, italic or oblique
-                "weight": "normal" // or bold
+                "color": "#ffffff",
+                "style": "normal",
+                "weight": "normal"
               }
             }
           }
