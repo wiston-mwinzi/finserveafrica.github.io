@@ -112,7 +112,7 @@
               "style": "light",
               "type": "color",
               "color": "#efefef",
-              "imageUri": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_image_default_light.png",
+              "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_image_default_light.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_thumbnail_default_light.png",
               "overlayOpacity": 0
             },
@@ -205,7 +205,7 @@
               "style": "dark",
               "type": "color",
               "color": "#1e1e1e",
-              "imageUri": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_image_default_dark.png",
+              "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_image_default_dark.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/default/theme_thumbnail_default_dark.png",
               "overlayOpacity": 0
             },
