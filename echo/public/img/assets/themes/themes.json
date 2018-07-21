@@ -285,6 +285,101 @@
             }
           }
         }
+    },
+	{
+      "name": "beach",
+      "category": "nature",
+      "updated": "21-Jul-2018",
+      "currentVersion": 1,
+      "type": "mkey",
+      "author": "#wakandaNation",
+      "themeDetail": {
+          "font": {
+            "face": "Muli",
+            "ttf": "https://finserveafrica.github.io/echo/public/img/assets/themes/fonts/Muli/Muli-Regular.ttf",
+            "otf": ""
+          },
+          "qwerty": {
+            "background": {
+              "style": "dark",
+              "type": "image",
+              "color": "",
+              "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_beach.png",
+              "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_beach.png",
+              "overlayOpacity": 150
+            },
+            "keys": {
+              "keyBorder": {
+                "border": true,
+                "shape": "rounded",
+                "borderColor": "#FFFFFF",
+                "opacity": 30
+              },
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "normal"
+              }
+            },
+            "bottomBar": {
+              "icons": {
+                "style": "light",
+                "shift": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/shift.png",
+                "capslock": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/capslock.png",
+                "uppercase": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/uppercase.png",
+                "emojiShortcut": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/emojiShortcut.png",
+                "globe": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/globe.png",
+                "go": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/go.png",
+                "next": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/next.png",
+                "send": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/send.png",
+                "search": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/search.png",
+                "done": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
+                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
+                "space": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png"
+                },
+              "keyBorder": {
+                "border": true,
+                "shape": "rounded",
+                "borderColor": "#FFFFFF",
+                "opacity": 15
+              }
+            },
+            "shortcutPanel": {
+              "overlayOpacity": 0,
+              "icons": {
+                "style": "default",
+                "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
+                "yetumoji": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/yetumoji.png",
+                "gif": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/gif.png",
+                "suggestion": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/suggestion.png",
+                "abcShortcut": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/abcShortcut.png",
+                "mkeyShortcut": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkeyShortcut.png"
+              },
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "normal"
+              }
+            }
+          },
+          "overview": {
+            "background": "inherit",
+            "titles": {
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "bold"
+              }
+            },
+            "labels": {
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "normal"
+              }
+            }
+          }
+        }
     }
   ]
 }
