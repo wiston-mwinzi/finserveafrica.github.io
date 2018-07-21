@@ -306,14 +306,14 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_beach.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_beach.png",
-              "overlayOpacity": 150
+              "overlayOpacity": 220
             },
             "keys": {
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#FFFFFF",
-                "opacity": 30
+                "opacity": 90
               },
               "font": {
                 "color": "#FFFFFF",
@@ -341,7 +341,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#FFFFFF",
-                "opacity": 15
+                "opacity": 60
               }
             },
             "shortcutPanel": {
