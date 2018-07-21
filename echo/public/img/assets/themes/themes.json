@@ -4,7 +4,7 @@
     {
       "name": "nairobae",
       "category": "cities",
-      "updated": "19-Jul-2018",
+      "updated": "21-Jul-2018",
       "currentVersion": 2,
       "type": "mkey",
       "author": "$marvesky",
@@ -99,8 +99,8 @@
     {
       "name": "light",
       "category": "default",
-      "updated": "19-Jul-2018",
-      "currentVersion": 1,
+      "updated": "21-Jul-2018",
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -194,8 +194,8 @@
     {
       "name": "dark",
       "category": "default",
-      "updated": "19-Jul-2018",
-      "currentVersion": 1,
+      "updated": "21-Jul-2018",
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
