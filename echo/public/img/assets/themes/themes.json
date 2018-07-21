@@ -49,7 +49,7 @@
                 "send": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/send.png",
                 "search": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/search.png",
                 "done": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
-                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/done.png",
+                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/backspace.png",
                 "space": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/done.png"
               },
               "keyBorder": {
@@ -144,7 +144,7 @@
                 "send": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/send.png",
                 "search": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/search.png",
                 "done": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/done.png",
-                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/done.png",
+                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/backspace.png",
                 "space": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/dark/done.png"
                 },
               "keyBorder": {
@@ -239,7 +239,7 @@
                 "send": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/send.png",
                 "search": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/search.png",
                 "done": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
-                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
+                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/backspace.png",
                 "space": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png"
                 },
               "keyBorder": {
@@ -334,7 +334,7 @@
                 "send": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/send.png",
                 "search": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/search.png",
                 "done": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
-                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
+                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/backspace.png",
                 "space": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png"
                 },
               "keyBorder": {
