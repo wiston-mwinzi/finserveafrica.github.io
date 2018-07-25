@@ -1,0 +1,21 @@
+{
+   "rid": "1",
+   "content": [
+      {
+         "contentId": 1,
+         "header": "We love to give back!",
+         "description": "Keep using mKey, keep leveling up!",
+         "likeCount": ,
+         "backgroundImage": {
+            "url": "",
+            "height": 300,
+            "width": 400
+         },
+         "status": "",
+         "type": ""
+      }
+   ],
+   "status": true,
+   "code": "00000",
+   "desc": "Success"
+}
