@@ -195,7 +195,7 @@
       "name": "beach",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -211,14 +211,14 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_beach.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_beach.png",
-              "overlayOpacity": 150
+              "overlayOpacity": 130
             },
             "keys": {
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#FFFFFF",
-                "opacity": 100
+                "opacity": 80
               },
               "font": {
                 "color": "#FFFFFF",
@@ -246,11 +246,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#FFFFFF",
-                "opacity": 100
+                "opacity": 80
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 100,
+              "overlayOpacity": 80,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -290,7 +290,7 @@
       "name": "butterfly",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -385,7 +385,7 @@
       "name": "flower",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -480,7 +480,7 @@
       "name": "galaxy",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -496,14 +496,14 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_galaxy.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_galaxy.png",
-              "overlayOpacity": 150
+              "overlayOpacity": 100
             },
             "keys": {
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 120
+                "opacity": 100
               },
               "font": {
                 "color": "#FFFFFF",
@@ -531,11 +531,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 120
+                "opacity": 100
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 80,
+              "overlayOpacity": 60,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -575,7 +575,7 @@
       "name": "jelly",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -591,14 +591,14 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_jelly.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_jelly.png",
-              "overlayOpacity": 150
+              "overlayOpacity": 100
             },
             "keys": {
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 120
+                "opacity": 100
               },
               "font": {
                 "color": "#FFFFFF",
@@ -626,7 +626,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 120
+                "opacity": 100
               }
             },
             "shortcutPanel": {
@@ -670,7 +670,7 @@
       "name": "landscape",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -692,11 +692,11 @@
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
-                "borderColor": "#FFFFFF",
-                "opacity": 90
+                "borderColor": "#000000",
+                "opacity": 60
               },
               "font": {
-                "color": "#ba43ff",
+                "color": "#ffffff",
                 "style": "normal",
                 "weight": "normal"
               }
@@ -720,12 +720,12 @@
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
-                "borderColor": "#FFFFFF",
-                "opacity": 90
+                "borderColor": "#000000",
+                "opacity": 60
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 60,
+              "overlayOpacity": 40,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -765,7 +765,7 @@
       "name": "leaves",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -788,7 +788,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 90
+                "opacity": 110
               },
               "font": {
                 "color": "#FFFFFF",
@@ -816,11 +816,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 90
+                "opacity": 110
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 0,
+              "overlayOpacity": 50,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -860,7 +860,7 @@
       "name": "maasai-mara",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -915,7 +915,7 @@
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 0,
+              "overlayOpacity": 60,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -955,7 +955,7 @@
       "name": "mt-kenya",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1010,7 +1010,7 @@
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 0,
+              "overlayOpacity": 60,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -1050,7 +1050,7 @@
       "name": "ndovu",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1066,7 +1066,7 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_ndovu.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_ndovu.png",
-              "overlayOpacity": 120
+              "overlayOpacity": 100
             },
             "keys": {
               "keyBorder": {
@@ -1105,7 +1105,7 @@
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 0,
+              "overlayOpacity": 60,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -1145,7 +1145,7 @@
       "name": "spores",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1161,17 +1161,17 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_spores.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_spores.png",
-              "overlayOpacity": 90
+              "overlayOpacity": 70
             },
             "keys": {
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
-                "borderColor": "#FFFFFF",
+                "borderColor": "#000000",
                 "opacity": 75
               },
               "font": {
-                "color": "#ba43ff",
+                "color": "#ffffff",
                 "style": "normal",
                 "weight": "normal"
               }
@@ -1195,7 +1195,7 @@
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
-                "borderColor": "#FFFFFF",
+                "borderColor": "#000000",
                 "opacity": 75
               }
             },
@@ -1211,7 +1211,7 @@
                 "mkeyShortcut": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkeyShortcut.png"
               },
               "font": {
-                "color": "#ba43ff",
+                "color": "#ffffff",
                 "style": "normal",
                 "weight": "normal"
               }
@@ -1240,7 +1240,7 @@
       "name": "sunset",
       "category": "nature",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1256,7 +1256,7 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_sunset.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_sunset.png",
-              "overlayOpacity": 150
+              "overlayOpacity": 120
             },
             "keys": {
               "keyBorder": {
@@ -1292,6 +1292,101 @@
                 "shape": "rounded",
                 "borderColor": "#000000",
                 "opacity": 80
+              }
+            },
+            "shortcutPanel": {
+              "overlayOpacity": 60,
+              "icons": {
+                "style": "default",
+                "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
+                "yetumoji": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/yetumoji.png",
+                "gif": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/gif.png",
+                "suggestion": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/suggestion.png",
+                "abcShortcut": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/abcShortcut.png",
+                "mkeyShortcut": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkeyShortcut.png"
+              },
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "normal"
+              }
+            }
+          },
+          "overview": {
+            "background": "inherit",
+            "titles": {
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "bold"
+              }
+            },
+            "labels": {
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "normal"
+              }
+            }
+          }
+        }
+    },
+	{
+      "name": "lake-victoria",
+      "category": "nature",
+      "updated": "21-Jul-2018",
+      "currentVersion": 2,
+      "type": "mkey",
+      "author": "#wakandaNation",
+      "themeDetail": {
+          "font": {
+            "face": "Muli",
+            "ttf": "https://finserveafrica.github.io/echo/public/img/assets/themes/fonts/Muli/Muli-Regular.ttf",
+            "otf": ""
+          },
+          "qwerty": {
+            "background": {
+              "style": "dark",
+              "type": "image",
+              "color": "",
+              "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_lake-victoria.png",
+              "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_thumbnail_nature_lake-victoria.png",
+              "overlayOpacity": 60
+            },
+            "keys": {
+              "keyBorder": {
+                "border": true,
+                "shape": "rounded",
+                "borderColor": "#000000",
+                "opacity": 60
+              },
+              "font": {
+                "color": "#FFFFFF",
+                "style": "normal",
+                "weight": "normal"
+              }
+            },
+            "bottomBar": {
+              "icons": {
+                "style": "light",
+                "shift": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/shift.png",
+                "capslock": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/capslock.png",
+                "uppercase": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/uppercase.png",
+                "emojiShortcut": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/emojiShortcut.png",
+                "globe": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/globe.png",
+                "go": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/go.png",
+                "next": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/next.png",
+                "send": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/send.png",
+                "search": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/search.png",
+                "done": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/done.png",
+                "backspace": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/backspace.png",
+                "space": "https://finserveafrica.github.io/echo/public/img/assets/themes/bottomBar/light/space.png"
+                },
+              "keyBorder": {
+                "border": true,
+                "shape": "rounded",
+                "borderColor": "#000000",
+                "opacity": 60
               }
             },
             "shortcutPanel": {
@@ -1335,7 +1430,7 @@
       "name": "digital",
       "category": "abstract",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1390,7 +1485,7 @@
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 30,
+              "overlayOpacity": 70,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -1430,7 +1525,7 @@
       "name": "funk",
       "category": "abstract",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1485,7 +1580,7 @@
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 30,
+              "overlayOpacity": 50,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -1525,7 +1620,7 @@
       "name": "mkey",
       "category": "abstract",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1580,7 +1675,7 @@
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 30,
+              "overlayOpacity": 50,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -1620,7 +1715,7 @@
       "name": "trigonometry",
       "category": "abstract",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1715,7 +1810,7 @@
       "name": "tron",
       "category": "abstract",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1731,7 +1826,7 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/abstract/theme_image_abstract_tron.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/abstract/theme_thumbnail_abstract_tron.png",
-              "overlayOpacity": 60
+              "overlayOpacity": 20
             },
             "keys": {
               "keyBorder": {
@@ -1810,7 +1905,7 @@
       "name": "vintage",
       "category": "abstract",
       "updated": "21-Jul-2018",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "type": "mkey",
       "author": "#wakandaNation",
       "themeDetail": {
@@ -1825,7 +1920,7 @@
               "type": "image",
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/abstract/theme_image_abstract_vintage.png",
-              "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/abstract/theme_thumbnail_nature_vintage.png",
+              "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/abstract/theme_thumbnail_abstract_vintage.png",
               "overlayOpacity": 60
             },
             "keys": {
@@ -1960,7 +2055,7 @@
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 90,
+              "overlayOpacity": 50,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -2016,7 +2111,7 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/cities/theme_image_cities_newyork.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/cities/theme_thumbnail_cities_newyork.png",
-              "overlayOpacity": 80
+              "overlayOpacity": 60
             },
             "keys": {
               "keyBorder": {
@@ -2111,7 +2206,7 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/cities/theme_image_cities_paris.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/cities/theme_thumbnail_cities_paris.png",
-              "overlayOpacity": 150
+              "overlayOpacity": 120
             },
             "keys": {
               "keyBorder": {
@@ -2681,7 +2776,7 @@
               "color": "",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/kikwetu/theme_image_kikwetu_maasai.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/kikwetu/theme_thumbnail_kikwetu_maasai.png",
-              "overlayOpacity": 80
+              "overlayOpacity": 120
             },
             "keys": {
               "keyBorder": {
@@ -2878,7 +2973,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 50
               },
               "font": {
                 "color": "#FFFFFF",
@@ -2906,11 +3001,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 50
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 60,
+              "overlayOpacity": 40,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -2973,7 +3068,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 50
               },
               "font": {
                 "color": "#FFFFFF",
@@ -3001,11 +3096,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 50
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 60,
+              "overlayOpacity": 40,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -3068,7 +3163,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 50
               },
               "font": {
                 "color": "#FFFFFF",
@@ -3096,11 +3191,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 50
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 60,
+              "overlayOpacity": 40,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -3163,7 +3258,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 40
               },
               "font": {
                 "color": "#FFFFFF",
@@ -3191,11 +3286,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 40
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 60,
+              "overlayOpacity": 30,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -3258,7 +3353,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 40
               },
               "font": {
                 "color": "#FFFFFF",
@@ -3286,11 +3381,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 40
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 60,
+              "overlayOpacity": 30,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
@@ -3353,7 +3448,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 40
               },
               "font": {
                 "color": "#FFFFFF",
@@ -3381,7 +3476,7 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 70
+                "opacity": 40
               }
             },
             "shortcutPanel": {
@@ -3441,14 +3536,14 @@
               "color": "#ffe030",
               "imageUrl": "https://finserveafrica.github.io/echo/public/img/assets/themes/color/theme_image_color_yellow.png",
               "imageThumbnail": "https://finserveafrica.github.io/echo/public/img/assets/themes/color/theme_thumbnail_color_yellow.png",
-              "overlayOpacity": 150
+              "overlayOpacity": 50
             },
             "keys": {
               "keyBorder": {
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 80
+                "opacity": 40
               },
               "font": {
                 "color": "#FFFFFF",
@@ -3476,11 +3571,11 @@
                 "border": true,
                 "shape": "rounded",
                 "borderColor": "#000000",
-                "opacity": 80
+                "opacity": 40
               }
             },
             "shortcutPanel": {
-              "overlayOpacity": 30,
+              "overlayOpacity": 20,
               "icons": {
                 "style": "default",
                 "mkey": "https://finserveafrica.github.io/echo/public/img/assets/themes/shortcutPanel/default/mkey.png",
