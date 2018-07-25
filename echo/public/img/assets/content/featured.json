@@ -7,12 +7,12 @@
          "description": "Keep using mKey, keep leveling up!",
          "likeCount": "",
          "backgroundImage": {
-            "url": "",
+            "url": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_jelly.png",
             "height": 300,
             "width": 400
          },
-         "status": "",
-         "type": ""
+         "status": "published",
+         "type": "article"
       }
    ],
    "status": true,
