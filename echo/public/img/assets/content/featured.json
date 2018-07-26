@@ -7,7 +7,33 @@
          "description": "Keep using mKey, keep leveling up!",
          "likeCount": "",
          "backgroundImage": {
+            "url": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_maasai-mara.png",
+            "height": 300,
+            "width": 400
+         },
+         "status": "published",
+         "type": "article"
+      },
+      {
+         "contentId": 2,
+         "header": "If you have to say it...",
+         "description": "Browse our collections of Yetumoji stickers and GIFs to spice up your convos!",
+         "likeCount": "",
+         "backgroundImage": {
             "url": "https://finserveafrica.github.io/echo/public/img/assets/themes/nature/theme_image_nature_jelly.png",
+            "height": 300,
+            "width": 400
+         },
+         "status": "published",
+         "type": "article"
+      },
+      {
+         "contentId": 3,
+         "header": "Be the know-it-all",
+         "description": "Catch up on the latest in news from gossip to business, coast to coast!",
+         "likeCount": "",
+         "backgroundImage": {
+            "url": "https://finserveafrica.github.io/echo/public/img/assets/themes/abstract/theme_image_abstract_tron.png",
             "height": 300,
             "width": 400
          },
