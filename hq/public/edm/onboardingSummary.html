@@ -3,44 +3,69 @@
 
 <head lang="en">
     <meta charset="UTF-8" />
-    <title>Thank you for your interest in Finserve Payment Gateway</title>
-    <link href="https://fonts.googleapis.com/css?family=Muli:400,700" rel="stylesheet">
+    <title>Thank you for your interest in Jenga HQ</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <style>
-    body {
-        font-family: 'Muli', Arial, sans-serif;
-        font-size: 14px;
-        font-weight: 400;
-        max-width: 620px;
-        padding: 20px;
-    }
-    
-    p, ul, li {
-        color: #202020;
-    }
-    
-    a {
-        color: #31AACE;
-    }
-    
-    .center {
-        text-align: center;
-    }
+        body {
+            font-family: 'Lato', Arial, sans-serif;
+            font-size: 14px;
+            font-weight: 400;
+            max-width: 620px;
+            padding: 20px;
+        }
+        
+        p,
+        ul,
+        li {
+            color: #202020;
+        }
+        
+        a {
+            color: #48539A;
+        }
+        
+        .center {
+            text-align: center;
+        }
+        
+        .btn {
+            -moz-box-shadow: 0px 5px 20px -7px #48539A;
+            -webkit-box-shadow: 0px 5px 20px -7px #48539A;
+            box-shadow: 0px 5px 20px -7px #48539A;
+            background-color: #4d61e0;
+            -moz-border-radius: 7px;
+            -webkit-border-radius: 7px;
+            border-radius: 7px;
+            display: inline-block;
+            cursor: pointer;
+            color: #ffffff;
+            font-family: 'Lato', Arial, sans-serif;
+            font-size: 14px;
+            padding: 12px 18px;
+            text-decoration: none;
+        }
+        
+        .btn:hover {
+            background-color: #48539A;
+        }
+        
+        .btn:active {
+            position: relative;
+            top: 1px;
+        }
     </style>
 </head>
 
 <body>
-    <h2 style="color: #31AACE; font-size: 18px; margin-bottom: 30px;">Thanks for signing up to Finserve Payment Gateway</h2>
+    <img src="https://finserveafrica.github.io/hq/public/img/logo.png" width="150px" />
+    <h2 style="color: #2b3643; font-size: 18px; margin-top: 30px; margin-bottom: 30px;">Thanks for signing up to Jenga HQ</h2>
     <p>Hi {firstName},</p>
     <!-- FIRSTNAME GOES HERE -->
-    <p>Thank you for your interest in Finserve Payment Gateway Portal. We're happy you're here!</p>
+    <p>Thank you for your interest in Jenga HQ. We're happy you're here!</p>
     <span>Here are your account details:</span>
-    <ul style="list-style-type: none;">
-        <li>Username: <a href="#">username@finserve.africa</a></li>
-        <!-- ADD LOGIN EMAIL -->
-        <li>Password: <span style="font-style: italic; color: #CECECE;">Use the password you created during registration</span></li>
-    </ul>
-    <ul style="list-style-type: none;">
-        <li>Your Organization</li>
+    <p>Username: <a href="#">username@jengahq.io</a></p>
+    <ul style="list-style-type: none; -webkit-padding-start: 0 !important;">
+        <li><strong>Your Business</strong></li>
         <li>Merchant Name: {merchantName}</li>
         <!-- ADD MERCHANT NAME -->
         <li>Merchant Code: {merchantCode}</li>
@@ -48,28 +73,24 @@
     </ul>
     <p>And the services you requested:</p>
     <ul>
-        <li>APIs</li>
-        <li>eCommerce</li>
-        <li>EazzyPay</li>
-        <li>International Money Remittance (IMT)</li>
-        <li>Pay Bill</li>
-        <li>Agency Banking</li>
+        <li>Jenga Payment Gateway</li>
+        <li>Jenga HQ</li>
     </ul>
     <p>Your application will be reviewed and verified by our team. Once complete, you will receive an email confirming your activation within 3 working days.</p>
-    <p>Got questions? Need advice? Email us at <a href="mailto:feedback@finserve.africa">feedback@finserve.africa</a>, we're always happy to help!</p>
+    <p>Got questions? Need advice? Email us at <a href="mailto:support@jengahq.io">support@jengahq.io</a>, we're always happy to help!</p>
     <p>Thanks,</p>
-    <p style="font-weight: bold;">The Finserve Africa Team</p>
-    <!-- FOOTER GOES HERE -->
+    <p style="font-weight: 800;">Jenga Support Maestro's</p>
+    <!-- // FOOTER GOES HERE -->
     <br />
     <br />
-    <p class="center" style="color: #CECECE !important;">- \\// -</p>
-    <p class="center" style="font-size: 10px; color: #9E9E9E !important;">This message was sent to you by Finserve Africa</p>
-    <p class="center"><img src="https://eazzycheckout-test.equitybankgroup.com/images/logo2.17178b21.png" alt="Finserve Africa" style="width: 100px"></p>
+    <p class="center" style="color: #CECECE;">- \\// -</p>
+    <p class="center" style="font-size: 10px; color: #9E9E9E">This message was sent to you by Finserve Africa</p>
+    <p class="center"><img src="https://finserveafrica.github.io/hq/public/img/finserve-red.png" alt="Finserve Africa" style="width: 100px"></p>
     <script>
-    function myFunction() {
-        var x = location.hostname;
-        document.getElementById("demo").innerHTML = x;
-    }
+        function myFunction() {
+            var x = location.hostname;
+            document.getElementById("demo").innerHTML = x;
+        }
     </script>
 </body>
 

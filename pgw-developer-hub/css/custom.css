@@ -70,6 +70,23 @@ header#hub-header #header-top #header-nav-left li a:hover, header#hub-header #he
   color: #FFFFFF !important;
 }
 
+section#hub-content header {
+  padding-top: 60px !important;
+}
+
+section#hub-content {
+  padding-top: 100px !important;
+}
+
+nav#hub-sidebar .scrollable-parent #hub-sidebar-content {
+  padding-bottom: 60px;
+}
+
+.excerpt a, .magic-block-textarea a, .block-parameters-table a, .callout-body a {
+  text-decoration: none !important;
+  color: #A63D7E;
+}
+
 .theme-solid header#hub-header #header-top #header-nav-left li a, .theme-solid header#hub-header #header-top #header-nav-right li a {
   color: #333333 !important;
 }
