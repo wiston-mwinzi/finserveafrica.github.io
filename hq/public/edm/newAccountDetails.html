@@ -13,21 +13,21 @@
             max-width: 620px;
             padding: 20px;
         }
-        
+
         p,
         ul,
         li {
             color: #202020;
         }
-        
+
         a {
             color: #48539A;
         }
-        
+
         .center {
             text-align: center;
         }
-        
+
         .btn {
             -moz-box-shadow: 0px 5px 20px -7px #48539A;
             -webkit-box-shadow: 0px 5px 20px -7px #48539A;
@@ -44,11 +44,11 @@
             padding: 12px 18px;
             text-decoration: none;
         }
-        
+
         .btn:hover {
             background-color: #48539A;
         }
-        
+
         .btn:active {
             position: relative;
             top: 1px;
@@ -66,21 +66,21 @@
             max-width: 620px;
             padding: 20px;
         }
-        
+
         p,
         ul,
         li {
             color: #202020;
         }
-        
+
         a {
             color: #48539A;
         }
-        
+
         .center {
             text-align: center;
         }
-        
+
         .btn {
             -moz-box-shadow: 0px 5px 20px -7px #48539A;
             -webkit-box-shadow: 0px 5px 20px -7px #48539A;
@@ -97,11 +97,11 @@
             padding: 12px 18px;
             text-decoration: none;
         }
-        
+
         .btn:hover {
             background-color: #48539A;
         }
-        
+
         .btn:active {
             position: relative;
             top: 1px;
@@ -110,19 +110,23 @@
     </head>
     <img src="https://finserveafrica.github.io/hq/public/img/logo.png" width="150px" />
     <h2 style="color: #2b3643; font-size: 18px; margin-top: 30px; margin-bottom: 30px;">Welcome to Jenga HQ!</h2>
-    <p>Hi {firstName},</p>
-    <!-- FIRSTNAME GOES HERE -->
+    <p>Hi {{firstName}},</p>
     <p>Thank you for signing up for Jenga HQ. Your registration is now complete and you been verified successfully to make the most out of Jenga HQ.</p>
-    <span>Here's a reminder of your account details:</span>
-    <p>Username: <a href="#">username@jenga.io</a></p>
+    <span>You're account details:</span>
+    <ul style="list-style-type: none; -webkit-padding-start: 0 !important">
+      <li>URL: <a href="{{baseurl}}/#!/authenticate">{{baseurl}}/#!/authenticate</a></li>
+      <li>Username: <a href="mailto:{{email}}">{{email}}</a></li>
+      <li>Password: {{password}}</li>
+    </ul>
+    <br />
     <ul style="list-style-type: none; -webkit-padding-start: 0 !important;">
         <li><strong>Your Business</strong></li>
-        <li>Merchant Name: {merchantName}</li>
+        <li>Merchant Name: {{merchantName}}</li>
         <!-- ADD MERCHANT NAME -->
-        <li>Merchant Code: {merchantCode}</li>
+        <li>Merchant Code: {{merchantCode}}</li>
         <!-- ADD MERCHANT CODE -->
     </ul>
-    <p>We're happy you're here! Visit <a href="https://jengahq.io">https://jengahq.io</a> to log in. Once logged in, you will be able to view transactions and services for your account.</p>
+    <p>We're happy you're here! Visit <a href="{{baseurl}}">{{baseurl}}</a> to log in. Once logged in, you will be able to view transactions and services for your account.</p>
     <p>Got questions? Need advice? Having trouble? Got ideas on how we can improve? Email us at <a href="mailto:support@jengahq.io">support@jengahq.io</a>, we're always happy to help!</p>
     <br />
     <p>Thanks,</p>
